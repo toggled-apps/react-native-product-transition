@@ -17,7 +17,11 @@ npm install @toggled-apps/react-native-product-transition
 
 ## 🚀 Run the example
 
-The provided example uses [expo](https://expo.io/). Navigate to the "examples" directory and run:
+The provided example uses [expo](https://expo.io/).
+
+Snack: https://expo.io/@toggled-apps/projects/react-native-product-transition
+
+Build locally: Navigate to the "examples" directory and run:
 
 - Install packages with `yarn` or `npm install`.
 - Run `yarn ios` or `yarn android` or `npm run ios` or `npm run android`.

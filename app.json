@@ -2,6 +2,8 @@
   "expo": {
     "name": "react-native-product-transition",
     "slug": "react-native-product-transition",
+    "owner": "toggled-apps",
+    "description": "This react native project is intended to provide an example of a beautifully animated product list to details transition that you can customise and use in your own projects.",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
