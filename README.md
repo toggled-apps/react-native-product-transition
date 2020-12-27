@@ -2,7 +2,7 @@
 
 This react native project is intended to provide an example of a beautifully animated product list to details transition that you can customise and use in your own projects.
 
-<!-- ![Alt Text](./assets/react-native-dot-intro.gif) -->
+![Example](./assets/react-native-product-transition.gif)
 
 ## Usage
 
