@@ -8,7 +8,7 @@ This react native project is intended to provide an example of a beautifully ani
 
 The provided example uses [expo](https://expo.io/).
 
-Snack: https://expo.io/@toggled-apps/projects/react-native-product-transition
+Snack: https://expo.io/@toggled-apps/react-native-product-transition
 
 Build locally: Navigate to the "examples" directory and run:
 
