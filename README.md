@@ -1,4 +1,4 @@
-# React Native Dot Intro
+# React Native Product Transition
 
 This react native project is intended to provide an example of a beautifully animated product list to details transition that you can customise and use in your own projects.
 
