@@ -4,17 +4,6 @@ This react native project is intended to provide an example of a beautifully ani
 
 ![Example](./assets/react-native-product-transition.gif)
 
-## Usage
-
-```
-yarn add @toggled-apps/react-native-product-transition
-
-or
-
-npm install @toggled-apps/react-native-product-transition
-```
-
-
 ## 🚀 Run the example
 
 The provided example uses [expo](https://expo.io/).
